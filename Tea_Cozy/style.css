@@ -1,0 +1,142 @@
+html {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+.nav{ 
+    max-height: 69px;
+}
+
+.nav img {
+    padding-left: 10px; 
+    max-height: 50px; 
+}
+
+.nav a {
+    text-decoration: underline;
+    padding: 10px;
+    position: relative;
+    left: 700px;
+}
+
+.mission-background {
+    width: 1200px;
+    height: 700px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.mission-background img {
+    width: 100%;
+    max-height: auto;
+}
+
+.mission {
+    text-align: center;
+    z-index: 1; 
+    position: relative;
+    bottom: 485px;
+    background-color: black;
+}
+
+.tea-words { 
+    position: relative;
+    top: 115px;
+}
+
+.tea-words h2 {
+    text-align: center;
+    position: relative;
+}
+
+.tea-words h4 {
+    text-align: center;
+    position: relative;
+}
+
+.tea {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.description {
+    width:300px;
+    height: 250px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.tea img {
+    width: 100%;
+    max-height: auto; 
+}
+
+.details {
+    padding-top: 10px;
+}
+
+.cafe {
+    width: 1200px;
+    height: 500px;
+    margin-left: 50px;
+    margin-right: 50px; 
+    overflow: hidden; 
+}
+
+.cafe img {
+    width: 100%;
+    max-height: auto;
+    position: relative;
+    bottom: 60px;
+
+}
+
+.words h2 {
+    text-align: center;
+    position: relative;
+    bottom: 475px; 
+    padding: 15px;
+}
+
+.locations {
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    bottom: 525px;
+    left: 50px;
+}
+
+.places {
+    background-color: black;
+    height: 265px;
+    width: 265px;
+    margin: 20px;
+    text-align: center;
+}
+
+.contact {
+    width: 1200px;
+    height: 200px;
+    margin-left: 50px;
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    margin-bottom: -450px;
+}
+
+footer h5 {
+    text-align: left;
+    margin-left: 20px;
+}
