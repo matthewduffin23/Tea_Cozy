@@ -43,7 +43,7 @@ html {
 }
 
 .tea-words { 
-    position: relative;
+    position: absolute;
     top: 115px;
 }
 
